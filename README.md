@@ -22,4 +22,4 @@ This project automates the creation of multiple ad variations for products using
 
 ## Run
 ```bash
-python main.py
+python openai_copy.py
